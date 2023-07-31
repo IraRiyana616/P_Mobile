@@ -1,3 +1,2 @@
 # P_Mobile
-
-Tugas praktikum "Pemrograman Mobile" dengan menggunakan android studio dan menggunakan bahasa java
+Dokumentasi praktikum pemrograman mobile dan tugas besar pemrograman mobile. Bahasa pemrograman yang digunakan adalah bahasa java.
